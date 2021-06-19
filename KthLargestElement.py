@@ -1,7 +1,8 @@
+  # creating a min heap for largest element and max heap to find the smallest element
+  
 import heapq
 
 def KthLargestElement(arr,k):
-  # creating a min heap for largest element
     heap=[]
     for i in range(len(arr)):
         heapq.heappush(heap,arr[i])

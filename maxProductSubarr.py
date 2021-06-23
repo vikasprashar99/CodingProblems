@@ -1,5 +1,5 @@
 # Max Product Subarr
-# we take max as well as the min product 
+# we take max as well as the min product similar toh kadanes algo
 
 nums=[6, -3, -10, 0, 2]
 prevMin = prevMax = 1

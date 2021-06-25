@@ -1,3 +1,6 @@
+# Smallest Subarray with sum greater than a given value
+# Sliding Window Technique
+
 import math
 def smallestSubarraywithSumgreaterThanX(a,s):
     window_start=0

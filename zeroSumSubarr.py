@@ -1,5 +1,5 @@
 # Find if there is any subarray with sum equal to 0
-
+# code
 a=[4,2,1,6]
 
 def zeroSumSubarr(a):

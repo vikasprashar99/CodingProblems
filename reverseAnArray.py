@@ -1,6 +1,6 @@
 # Problem Statement- Reverse An Array 
 # Used Two pointers
-# Complexity O(n/2)  n=len(arr)
+# Complexity O(n/2)  n=len(arr)..
 
 def reverseAnArray(arr)
     i=0

@@ -1,5 +1,5 @@
 # Max Consecutive Ones III
-
+# code
 nums = [1,1,1,0,0,0,1,1,1,1,0]
 k = 2
 

@@ -1,5 +1,6 @@
 # Array is the subset of another array
 
+# code
 a1= [10, 5, 2, 23, 19]
 a2 = [2,5]
 # Sort and merge Technique

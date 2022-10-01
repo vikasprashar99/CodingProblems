@@ -1,6 +1,7 @@
 #  find duplicate in an array of N+1 Integers
 # Time complexity n
   
+#   code
   def findDuplicate(num):
         s=set()
         for i in range(len(nums)):

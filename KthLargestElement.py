@@ -1,6 +1,7 @@
-  # creating a min heap for largest element and max heap to find the smallest element
+# creating a min heap for largest element and max heap to find the smallest element
   
 import heapq
+
 # code..
 def KthLargestElement(arr,k):
     heap=[]
@@ -13,6 +14,6 @@ def KthLargestElement(arr,k):
 
 arr=[7,10,4,3,20,15]
 k=1
-KthLargestElement(arr,k) 
+KthLargestElement(arr,k)  
 
 

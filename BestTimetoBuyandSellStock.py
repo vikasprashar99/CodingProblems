@@ -1,5 +1,6 @@
 import math
-# code  1
+# code 
+
 def BestTimetoBuyandSellStock():
     prices =[7,1,5,3,6,4]
     leastsofar=math.inf

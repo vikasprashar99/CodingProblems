@@ -1,6 +1,6 @@
 # Find the triplet that sum to a given value
 # Two pointers sorted array
-
+# code
 a=[1,2,4,3,6]
 k=10
 a.sort()

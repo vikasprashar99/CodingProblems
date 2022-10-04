@@ -16,3 +16,4 @@ def searchMatrix():
         elif matrix[row][col] < target: row += 1
         elif matrix[row][col] > target: col -= 1
         
+# code end

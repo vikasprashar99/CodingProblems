@@ -1,6 +1,6 @@
 # Sort an array of 0s, 1s and 2s
 # used 3 pointer where low=0 mid=1 and high=2
-
+# code
 def sort012Array(a):
     low=0
     mid=0

@@ -13,3 +13,5 @@ def BestTimetoBuyandSellStock():
         
         maxCurrentProfit=prices[i]-leastsofar
         maxProfit=max(maxProfit,maxCurrentProfit)
+
+# ////////////

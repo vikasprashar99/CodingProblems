@@ -24,3 +24,5 @@ def longestconsecutive(nums):
         
     return(mcount+1)
 longestconsecutive(nums)
+
+# end
